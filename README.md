@@ -10,6 +10,9 @@ The beta release was released to those who deserve it in da scene, other way to 
 # Support obfuscated view too, so no site usernames as output
 ![alt tag](http://i.imgur.com/LNwoeDa.png)
 
+# It got API too!
+You can also output to your web via api.php from /glftpd/bin/sitewho some stats, and not only that, more to come!
+
 # glFTPd-PHP supported SITE commands
 
  USERMANAGEMENT COMMANDS:
