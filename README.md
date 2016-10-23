@@ -5,6 +5,11 @@ We do like things in PHP, why not a WEB panel for glFTPd? So here we come ;)
 
 The beta release was released to those who deserve it in da scene, other way to obtain it? mmm, let you guess.
 
+# Home index
+![alt tag](http://i.imgur.com/1ntXPYF.png)
+# Support obfuscated view too, so no real username as output
+![alt tag](http://i.imgur.com/LNwoeDa.png)
+
 --=--------------------- glFTPd-PHP supported SITE commands ---------------------=--
 
  USERMANAGEMENT COMMANDS:
