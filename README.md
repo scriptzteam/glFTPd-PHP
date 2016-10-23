@@ -7,10 +7,10 @@ The beta release was released to those who deserve it in da scene, other way to 
 
 # Home index
 ![alt tag](http://i.imgur.com/1ntXPYF.png)
-# Support obfuscated view too, so no real username as output
+# Support obfuscated view too, so no site usernames as output
 ![alt tag](http://i.imgur.com/LNwoeDa.png)
 
---=--------------------- glFTPd-PHP supported SITE commands ---------------------=--
+# glFTPd-PHP supported SITE commands
 
  USERMANAGEMENT COMMANDS:
  ------------------------
